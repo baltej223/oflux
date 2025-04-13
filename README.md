@@ -1,4 +1,5 @@
-
+## Note: Its under construction right now.
+## Contributions will be appreciated.
 ---
 
 # **Messaging Application (oflux)**
