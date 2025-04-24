@@ -6,6 +6,10 @@
 
 This project allows you to send and receive messages through text files. You can interact with other users by editing `.txt` files, and messages are sent and received in real-time.
 
+## A Quick sneak peek
+![JOHN](https://raw.githubusercontent.com/baltej223/oflux/refs/heads/examples/2.png)
+![MARIE](https://raw.githubusercontent.com/baltej223/oflux/refs/heads/examples/1.png)
+
 ### **Key Features**:
 - **Real-time messaging** via WebSockets (no polling needed).
 - **Automatic message sending** after saving a file.
